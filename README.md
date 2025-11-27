@@ -1,0 +1,1 @@
+Bu offline bir program Python ile oluşturuldu. Çok detaya takılmadan veya geliştirmeye gerek kalmadan veri dosyasını açın ve masaustu.py çalıştırarak devam edin bu kadar yada daha geliştirmek istiyorsanız daha mutlu olurum
